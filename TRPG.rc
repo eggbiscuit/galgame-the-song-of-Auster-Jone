@@ -1,0 +1,141 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_WAVE1               WAVE                    "C:\\Users\\peter\\Desktop\\Sviatoslav Richter,Stanislaw Wislocki,Warsaw National Philharmonic Orchestra - Piano Concerto No.2 In C Minor, Op.18：1. Moderato.wav"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// JPG
+//
+
+IDR_JPG1                JPG                     "男主房间.jpg"
+
+IDR_JPG2                JPG                     "C:\\Users\\peter\\Desktop\\GameDevelop\\月光下.jpg"
+
+IDR_JPG3                JPG                     "赌场大小姐.jpg"
+
+IDR_JPG4                JPG                     "C:\\Users\\peter\\source\\repos\\opencv_1\\蜡烛.jpg"
+
+IDR_JPG5                JPG                     "C:\\Users\\peter\\source\\repos\\opencv_1\\candleImageBlur.jpg"
+
+IDR_JPG6                JPG                     "C:\\Users\\peter\\source\\repos\\opencv_1\\candleImageCanny.jpg"
+
+IDR_JPG7                JPG                     "C:\\Users\\peter\\source\\repos\\opencv_1\\candleImageGray.jpg"
+
+IDR_JPG8                JPG                     "fighting.jpg"
+
+IDR_JPG9                JPG                     "fightingImageBlur.jpg"
+
+IDR_JPG10               JPG                     "fightingImageCanny.jpg"
+
+IDR_JPG11               JPG                     "fightingImageGray.jpg"
+
+IDR_JPG12               JPG                     "巷子.jpg"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "C:\\Users\\peter\\source\\repos\\TRPG\\white.png"
+
+IDB_PNG2                PNG                     "C:\\Users\\peter\\Desktop\\女彩.png"
+
+IDB_PNG3                PNG                     "C:\\Users\\peter\\Desktop\\女黑.png"
+
+IDB_PNG4                PNG                     "卡背.png"
+
+IDB_PNG5                PNG                     "卡背透视变换.png"
+
+IDB_PNG6                PNG                     "box_horror_red.png"
+
+IDB_PNG7                PNG                     "me.png"
+
+IDB_PNG8                PNG                     "white.png"
+
+IDB_PNG9                PNG                     "box_horror_grbl.png"
+
+IDB_PNG10               PNG                     "看守者.png"
+
+IDB_PNG11               PNG                     "琼的房间.png"
+
+IDB_PNG12               PNG                     "琼黑.png"
+
+IDB_PNG13               PNG                     "琼彩.png"
+
+IDB_PNG14               PNG                     "C:\\Users\\peter\\Desktop\\TRPG\\开头.png"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// JPEG
+//
+
+IDR_JPEG1               JPEG                    "手枪.jpeg"
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
